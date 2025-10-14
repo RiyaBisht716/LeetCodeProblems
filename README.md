@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0015-3sum) |
+| [0229-majority-element-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0229-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -13,4 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0015-3sum) |
+| [0229-majority-element-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0229-majority-element-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
