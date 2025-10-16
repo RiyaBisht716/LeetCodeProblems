@@ -46,8 +46,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0125-valid-palindrome) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
