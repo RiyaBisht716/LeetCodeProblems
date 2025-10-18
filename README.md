@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0118-pascals-triangle) |
 | [0229-majority-element-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0229-majority-element-ii) |
@@ -57,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0069-sqrtx) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
