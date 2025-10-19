@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0118-pascals-triangle) |
 | [0229-majority-element-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0229-majority-element-ii) |
+| [0493-reverse-pairs](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0493-reverse-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0069-sqrtx) |
+| [0493-reverse-pairs](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0493-reverse-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -66,4 +68,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0078-subsets) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
