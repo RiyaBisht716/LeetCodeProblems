@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0229-majority-element-ii) |
 ## Counting
@@ -48,12 +49,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0125-valid-palindrome) |
 ## Binary Search
 |  |
