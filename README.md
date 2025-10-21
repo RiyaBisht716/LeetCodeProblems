@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0066-plus-one) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0069-sqrtx) |
 | [0493-reverse-pairs](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0493-reverse-pairs) |
 ## Backtracking
