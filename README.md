@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0493-reverse-pairs) |
+| [0792-binary-search](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0069-sqrtx) |
 | [0493-reverse-pairs](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0493-reverse-pairs) |
+| [0792-binary-search](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0792-binary-search) |
 ## Backtracking
 |  |
 | ------- |
