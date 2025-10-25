@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0367-valid-perfect-square) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1817-calculate-money-in-leetcode-bank) |
 ## String
 |  |
 | ------- |
