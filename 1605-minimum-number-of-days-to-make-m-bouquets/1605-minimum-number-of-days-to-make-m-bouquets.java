@@ -1,32 +1,44 @@
 class Solution {
 
-    public boolean isPossible(int[]arr,int day,int m,int k){
-        int n =arr.length;
+    public boolean canMakeBouquet(int[]bloomDay,int day,int m,int k){
+        int n =bloomDay.length;
         int cnt =0;
         int noOfB = 0;
-        for(int i =0;i<n;i++){
-            if(arr[i]<=day){
+        for(int bloom : bloomDay){
+            if(bloom <=day){
                 cnt++;
                 if(cnt==k){
-                    noOfB++;//bouquet can be make
-                    cnt =0;//rest the cnt for next bouquet
+                    noOfB++;
+                    cnt =0;
+                    if(noOfB>=m) return true;
                 }
             }else{
-                 cnt =0;
-            }   
+                
+                cnt =0;
+            }
+   
         }
-        return noOfB>=m;
+        return false;
+        
         
     }
     public int minDays(int[] bloomDay, int m, int k) {
         int n =bloomDay.length;
         long val = (long)m*k;//to avoid overflow
         if(val>n) return -1; //not wnough flower to make a bouquet
-        int low = Arrays.stream(bloomDay).min().getAsInt();//function to calculate min and max 
-        int high =Arrays.stream(bloomDay).max().getAsInt();
+        // Instead of using stream (slower), find min & max manually
+        int minDay = Integer.MAX_VALUE;
+        int maxDay = Integer.MIN_VALUE;
+        for (int bloom : bloomDay) {
+            minDay = Math.min(minDay, bloom);
+            maxDay = Math.max(maxDay, bloom);
+        }
+        int low = minDay,high = maxDay;
+        int ans =-1;
         while(low<=high){
             int mid = low + (high-low)/2;
-            if(isPossible(bloomDay,mid,m,k)){
+            if(canMakeBouquet(bloomDay,mid,m,k)){
+                ans = mid;
                 high = mid-1;//look for minimum  days
             } 
             else{
@@ -36,7 +48,7 @@ class Solution {
            
 
         }
-         return low;//it will provide the answer as it is cross the high 
+         return ans;//it will provide the answer as it is cross the high 
 
     }
 }
