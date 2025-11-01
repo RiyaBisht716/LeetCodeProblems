@@ -15,7 +15,7 @@ class Solution {
             }
         }
         
-        return high + 1 + k;//formula for calculating k th missing //you can use (low + k) also
+        return low + k;//formula for calculating k th missing //you can use (low + k) also
         
     }
 }
