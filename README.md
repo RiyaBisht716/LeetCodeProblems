@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0412-fizz-buzz) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -153,4 +154,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
