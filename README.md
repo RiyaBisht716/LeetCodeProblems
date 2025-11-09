@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1646-kth-missing-positive-number](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1646-kth-missing-positive-number) |
+| [2047-find-a-peak-element-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/2047-find-a-peak-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
+| [2047-find-a-peak-element-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/2047-find-a-peak-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1646-kth-missing-positive-number) |
+| [2047-find-a-peak-element-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/2047-find-a-peak-element-ii) |
 ## Backtracking
 |  |
 | ------- |
