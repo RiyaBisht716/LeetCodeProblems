@@ -1,29 +1,25 @@
 class Solution {
     public int countPrimes(int n) {
-        if (n <= 2) return 0;   // No primes less than 2
-        
-        boolean[] isPrime = new boolean[n];
-        
-        // Assume all numbers are prime initially (except 0 and 1)
-        for (int i = 2; i < n; i++) {
-            isPrime[i] = true;
-        }
-        
-        // Sieve of Eratosthenes
-        for (int i = 2; i * i < n; i++) {
-            if (isPrime[i]) {
+        if (n <= 2) return 0;
+
+        BitSet isPrime = new BitSet(n);
+        isPrime.set(2, n, true);  // set all from 2 to n-1 as true
+
+        int limit = (int) Math.sqrt(n);
+        for (int i = 2; i <= limit; i++) {
+            if (isPrime.get(i)) {
+                // Clear multiples of i starting at i*i
                 for (int j = i * i; j < n; j += i) {
-                    isPrime[j] = false;
+                    isPrime.clear(j);
                 }
             }
         }
-        
-        // Count primes
+
+        // Count bits that are still true
         int count = 0;
         for (int i = 2; i < n; i++) {
-            if (isPrime[i]) count++;
+            if (isPrime.get(i)) count++;
         }
-        
         return count;
     }
 }
