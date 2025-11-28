@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Hash Table
 |  |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0264-ugly-number-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -143,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0441-arranging-coins) |
