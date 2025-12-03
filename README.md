@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0493-reverse-pairs) |
+| [0498-diagonal-traverse](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0907-koko-eating-bananas) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0498-diagonal-traverse) |
 | [2047-find-a-peak-element-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/2047-find-a-peak-element-ii) |
 ## Math
 |  |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0412-fizz-buzz) |
+| [0498-diagonal-traverse](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0498-diagonal-traverse) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Stack
 |  |
