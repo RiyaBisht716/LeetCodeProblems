@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0074-search-a-2d-matrix) |
