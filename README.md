@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0970-powerful-integers](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0970-powerful-integers) |
 | [0997-find-the-town-judge](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0997-find-the-town-judge) |
 | [1590-make-sum-divisible-by-p](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1590-make-sum-divisible-by-p) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0728-self-dividing-numbers) |
+| [0970-powerful-integers](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0970-powerful-integers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0204-count-primes) |
+| [0970-powerful-integers](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0970-powerful-integers) |
 ## Graph
 |  |
 | ------- |
