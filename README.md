@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0074-search-a-2d-matrix) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0498-diagonal-traverse) |
