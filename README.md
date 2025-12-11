@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0507-perfect-number) |
+| [0593-valid-square](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0593-valid-square) |
 | [0728-self-dividing-numbers](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0728-self-dividing-numbers) |
 | [0970-powerful-integers](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0970-powerful-integers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -280,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0997-find-the-town-judge) |
+## Geometry
+|  |
+| ------- |
+| [0593-valid-square](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0593-valid-square) |
 <!---LeetCode Topics End-->
