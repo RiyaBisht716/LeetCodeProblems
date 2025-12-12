@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0593-valid-square](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0593-valid-square) |
 | [0728-self-dividing-numbers](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0728-self-dividing-numbers) |
 | [0970-powerful-integers](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0970-powerful-integers) |
+| [1492-the-kth-factor-of-n](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1492-the-kth-factor-of-n) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0258-add-digits) |
+| [1492-the-kth-factor-of-n](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1492-the-kth-factor-of-n) |
 ## Prefix Sum
 |  |
 | ------- |
