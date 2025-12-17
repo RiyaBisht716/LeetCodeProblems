@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0290-word-pattern) |
 | [0412-fizz-buzz](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1903-largest-odd-number-in-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -307,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
