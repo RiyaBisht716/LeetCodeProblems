@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0264-ugly-number-ii) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0205-isomorphic-strings) |
 | [0412-fizz-buzz](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0709-to-lower-case) |
 | [1021-remove-outermost-parentheses](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1021-remove-outermost-parentheses) |
