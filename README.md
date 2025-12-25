@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0451-sort-characters-by-frequency) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Hash Table
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0451-sort-characters-by-frequency) |
 | [0970-powerful-integers](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0970-powerful-integers) |
 | [0997-find-the-town-judge](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0997-find-the-town-judge) |
 | [1590-make-sum-divisible-by-p](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1590-make-sum-divisible-by-p) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0451-sort-characters-by-frequency) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3583-count-special-triplets](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/3583-count-special-triplets) |
 ## Dynamic Programming
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0290-word-pattern) |
 | [0412-fizz-buzz](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0412-fizz-buzz) |
+| [0451-sort-characters-by-frequency](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0451-sort-characters-by-frequency) |
 | [0709-to-lower-case](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1021-remove-outermost-parentheses) |
@@ -286,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0264-ugly-number-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0451-sort-characters-by-frequency) |
 ## Interactive
 |  |
 | ------- |
@@ -315,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0796-rotate-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
