@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0190-reverse-bits) |
 | [0342-power-of-four](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0342-power-of-four) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Divide and Conquer
 |  |
