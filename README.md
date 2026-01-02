@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2047-find-a-peak-element-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/2047-find-a-peak-element-ii) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2187-minimum-time-to-complete-trips](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/2187-minimum-time-to-complete-trips) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/2047-find-a-peak-element-ii) |
+| [2187-minimum-time-to-complete-trips](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/2187-minimum-time-to-complete-trips) |
 ## Backtracking
 |  |
 | ------- |
