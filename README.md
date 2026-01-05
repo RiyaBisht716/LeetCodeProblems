@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1903-largest-odd-number-in-string](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1922-count-good-numbers) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/3676-smallest-number-with-all-set-bits) |
 ## String
 |  |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0342-power-of-four) |
+| [1922-count-good-numbers](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1922-count-good-numbers) |
 ## Number Theory
 |  |
 | ------- |
