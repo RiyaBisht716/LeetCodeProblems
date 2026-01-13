@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0118-pascals-triangle) |
+| [0131-palindrome-partitioning](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0264-ugly-number-ii) |
 | [0410-split-array-largest-sum](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0410-split-array-largest-sum) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0171-excel-sheet-column-number) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
