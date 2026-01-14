@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0070-climbing-stairs) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0060-permutation-sequence) |
 | [0326-power-of-three](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0342-power-of-four) |
 | [1922-count-good-numbers](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1922-count-good-numbers) |
