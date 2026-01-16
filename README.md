@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0057-insert-interval) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0131-palindrome-partitioning) |
