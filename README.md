@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0907-koko-eating-bananas) |
 | [0997-find-the-town-judge](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0997-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1590-make-sum-divisible-by-p) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0593-valid-square](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0593-valid-square) |
 | [0728-self-dividing-numbers](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0728-self-dividing-numbers) |
 | [0970-powerful-integers](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0970-powerful-integers) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1492-the-kth-factor-of-n](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1492-the-kth-factor-of-n) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0593-valid-square) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Trie
 |  |
 | ------- |
