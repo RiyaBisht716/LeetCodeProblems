@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0907-koko-eating-bananas) |
+| [0973-k-closest-points-to-origin](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0973-k-closest-points-to-origin) |
 | [0997-find-the-town-judge](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0997-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0455-assign-cookies) |
+| [0973-k-closest-points-to-origin](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0973-k-closest-points-to-origin) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Hash Table
 |  |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0593-valid-square](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0593-valid-square) |
 | [0728-self-dividing-numbers](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0728-self-dividing-numbers) |
 | [0970-powerful-integers](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0970-powerful-integers) |
+| [0973-k-closest-points-to-origin](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0973-k-closest-points-to-origin) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1492-the-kth-factor-of-n](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1492-the-kth-factor-of-n) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0493-reverse-pairs) |
+| [0973-k-closest-points-to-origin](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -344,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0451-sort-characters-by-frequency) |
+| [0973-k-closest-points-to-origin](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0973-k-closest-points-to-origin) |
 ## Interactive
 |  |
 | ------- |
@@ -365,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0593-valid-square) |
+| [0973-k-closest-points-to-origin](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0973-k-closest-points-to-origin) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Trie
 |  |
@@ -387,4 +393,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0292-nim-game) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
