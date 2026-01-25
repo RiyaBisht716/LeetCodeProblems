@@ -400,4 +400,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0973-k-closest-points-to-origin) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
