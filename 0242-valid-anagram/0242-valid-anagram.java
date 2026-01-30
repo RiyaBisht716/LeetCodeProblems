@@ -1,28 +1,22 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
-        //check the length of both strings
-        if(s.length() != t.length()) return false;
+        int s1 = s.length();
+        int t1 = t.length();
 
-        int [] freq = new int[26];
+        if(s1 != t1) return false;
 
-        //count the frequency in string s
-        for(int i=0;i<s.length();i++){
-            freq[s.charAt(i)-'a']++;
+        int [] freq =  new int[26];
 
-        }
-        //decrement the frequency in string t
-        for(int i=0;i<t.length();i++){
-            freq[t.charAt(i) -'a']--;
+        for(int i=0;i<s1;i++){
+            freq[s.charAt(i) -'a']++;
+            freq[t.charAt(i)-'a']--;
         }
 
-        for(int i =0;i<26;i++){
-            if (freq[i]!=0){
+        for(int x : freq){
+            if(x != 0){
                 return false;
             }
         }
-        //the strings are anagram
         return true;
-
-
     }
 }
