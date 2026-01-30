@@ -411,4 +411,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
