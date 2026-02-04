@@ -9,6 +9,28 @@
  * }
  */
 class Solution {
+    // **************Brute approach-(TC:- O(N), SC:- O(1))*************
+    //   public ListNode reverseList(ListNode head){
+    //     Stack<Integer> st  = new Stack<>();
+    //     ListNode temp = head;
+    //     //push the element from node to stack
+
+    //     while(temp != null){
+    //         st.push(temp.val);
+    //         temp = temp.next;
+    //     }
+
+    //     //pop the element and now it will be reverse as it is LIFO(Last in fast out)
+
+    //     temp = head;
+    //     while(temp != null){
+    //         temp.val = st.pop();
+    //         temp = temp.next;
+    //     }
+    //     return head;
+
+
+    // }
     //###########(Optimal:- TC:- O(N), SC:- O(1)) #########
     // public ListNode reverseList(ListNode head) {
     //     ListNode temp = head;
@@ -22,25 +44,16 @@ class Solution {
     //     return prev;
         
     // }
-    public ListNode reverseList(ListNode head){
-        Stack<Integer> st  = new Stack<>();
-        ListNode temp = head;
-        //push the element from node to stack
+    public ListNode reverseList(ListNode head) {
+        //Base case 
+        if(head == null || head.next == null) return head;
 
-        while(temp != null){
-            st.push(temp.val);
-            temp = temp.next;
-        }
+        ListNode newHead = reverseList(head.next);
+        ListNode front = head.next;
+        front.next = head;
+        head.next = null;
 
-        //pop the element and now it will be reverse as it is LIFO(Last in fast out)
-
-        temp = head;
-        while(temp != null){
-            temp.val = st.pop();
-            temp = temp.next;
-        }
-        return head;
-
-
+        return newHead;
     }
+  
 }
