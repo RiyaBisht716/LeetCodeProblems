@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0410-split-array-largest-sum) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0455-assign-cookies) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0367-valid-perfect-square) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0190-reverse-bits) |
+| [0287-find-the-duplicate-number](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0389-find-the-difference) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/2220-minimum-bit-flips-to-convert-number) |
