@@ -10,21 +10,19 @@
  * }
  */
 public class Solution {
-    //Detect cycle in a Linked list using tortoise and hare algorithm 
-    //############## Optimal approach:-  TC-(O(N)) , SC :- (O(1))###############
     public boolean hasCycle(ListNode head) {
         ListNode slow = head;
         ListNode fast = head;
-
-        while(fast != null && fast.next != null) {
+        while(fast!= null && fast.next != null ){
             slow = slow.next;
-            fast = fast.next.next;
+            fast= fast.next.next;
 
-            if(fast == slow){
-                return true;// agar loop detect hoga toh dono pointer ek jagaha meet karenge
+            if(slow == fast){
+                return true;
             }
+
         }
-        return false;// agar loop nhi hai 
+        return false;
         
     }
 }
