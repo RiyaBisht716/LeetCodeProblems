@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0389-find-the-difference) |
+| [0693-binary-number-with-alternating-bits](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0693-binary-number-with-alternating-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Divide and Conquer
