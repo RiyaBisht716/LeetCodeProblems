@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1021-remove-outermost-parentheses) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1903-largest-odd-number-in-string) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0498-diagonal-traverse) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Stack
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0342-power-of-four) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1922-count-good-numbers](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1922-count-good-numbers) |
 ## Number Theory
 |  |
