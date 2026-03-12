@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0493-reverse-pairs](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0498-diagonal-traverse) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0973-k-closest-points-to-origin) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0441-arranging-coins) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0507-perfect-number) |
 | [0593-valid-square](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0593-valid-square) |
 | [0728-self-dividing-numbers](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0728-self-dividing-numbers) |
