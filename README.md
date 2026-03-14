@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1021-remove-outermost-parentheses) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0131-palindrome-partitioning) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Bit Manipulation
 |  |
 | ------- |
