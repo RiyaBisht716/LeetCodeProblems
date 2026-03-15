@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0202-happy-number) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0131-palindrome-partitioning) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0190-reverse-bits) |
