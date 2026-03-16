@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0973-k-closest-points-to-origin) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1492-the-kth-factor-of-n](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1492-the-kth-factor-of-n) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1021-remove-outermost-parentheses) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1781-sum-of-beauty-of-all-substrings) |
