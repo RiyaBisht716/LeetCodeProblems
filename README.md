@@ -518,4 +518,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0232-implement-queue-using-stacks) |
+## Database
+|  |
+| ------- |
+| [0184-department-highest-salary](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
