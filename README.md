@@ -534,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0577-employee-bonus) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1141-user-activity-for-the-past-30-days-i) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1729-find-followers-count](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1729-find-followers-count) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
