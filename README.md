@@ -533,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0577-employee-bonus) |
+| [1070-product-sales-analysis-iii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1070-product-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1729-find-followers-count](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1729-find-followers-count) |
