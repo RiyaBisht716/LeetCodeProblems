@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0349-intersection-of-two-arrays) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0451-sort-characters-by-frequency) |
 | [0973-k-closest-points-to-origin](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0973-k-closest-points-to-origin) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0239-sliding-window-maximum) |
 ## Database
 |  |
 | ------- |
@@ -549,4 +552,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1327-list-the-products-ordered-in-a-period](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1729-find-followers-count](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1729-find-followers-count) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
