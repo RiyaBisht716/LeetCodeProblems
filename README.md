@@ -552,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1193-monthly-transactions-i](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1193-monthly-transactions-i) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1729-find-followers-count](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1729-find-followers-count) |
+| [1757-recyclable-and-low-fat-products](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Sliding Window
 |  |
