@@ -546,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0619-biggest-single-number](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0619-biggest-single-number) |
 | [0626-exchange-seats](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0626-exchange-seats) |
+| [1068-product-sales-analysis-i](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1070-product-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1164-product-price-at-a-given-date](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1164-product-price-at-a-given-date) |
