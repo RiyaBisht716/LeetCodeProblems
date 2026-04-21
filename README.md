@@ -551,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1164-product-price-at-a-given-date](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1164-product-price-at-a-given-date) |
 | [1193-monthly-transactions-i](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1193-monthly-transactions-i) |
+| [1280-students-and-examinations](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1280-students-and-examinations) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
