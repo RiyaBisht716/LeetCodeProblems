@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-minimum-time-to-complete-trips](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/2187-minimum-time-to-complete-trips) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2553-separate-the-digits-in-an-array](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3583-count-special-triplets](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/3583-count-special-triplets) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2553-separate-the-digits-in-an-array](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/2553-separate-the-digits-in-an-array) |
 ## Stack
 |  |
 | ------- |
