@@ -571,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-calculate-special-bonus](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1873-calculate-special-bonus) |
 | [1907-count-salary-categories](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1907-count-salary-categories) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+| [3220-odd-and-even-transactions](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/3220-odd-and-even-transactions) |
 ## Sliding Window
 |  |
 | ------- |
