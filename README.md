@@ -547,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0584-find-customer-referee) |
 | [0585-investments-in-2016](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0585-investments-in-2016) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [0595-big-countries](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0595-big-countries) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0619-biggest-single-number](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0619-biggest-single-number) |
 | [0626-exchange-seats](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0626-exchange-seats) |
