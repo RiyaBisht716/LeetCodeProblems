@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3583-count-special-triplets](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/3583-count-special-triplets) |
 | [3643-flip-square-submatrix-vertically](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/3643-flip-square-submatrix-vertically) |
+| [3838-weighted-word-mapping](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/3838-weighted-word-mapping) |
 ## Two Pointers
 |  |
 | ------- |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1903-largest-odd-number-in-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3838-weighted-word-mapping](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
 | ------- |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2553-separate-the-digits-in-an-array](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/2553-separate-the-digits-in-an-array) |
+| [3838-weighted-word-mapping](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/3838-weighted-word-mapping) |
 ## Stack
 |  |
 | ------- |
