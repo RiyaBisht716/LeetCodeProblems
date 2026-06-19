@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1646-kth-missing-positive-number](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1646-kth-missing-positive-number) |
+| [1732-find-the-highest-altitude](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1732-find-the-highest-altitude) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2047-find-a-peak-element-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/2047-find-a-peak-element-ii) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0410-split-array-largest-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1590-make-sum-divisible-by-p) |
+| [1732-find-the-highest-altitude](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1732-find-the-highest-altitude) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Heap (Priority Queue)
 |  |
