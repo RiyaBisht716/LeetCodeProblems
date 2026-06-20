@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0228-summary-ranges) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0498-diagonal-traverse) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -598,8 +600,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0200-number-of-islands](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0094-binary-tree-inorder-traversal) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
