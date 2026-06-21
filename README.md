@@ -573,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1393-capital-gainloss](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1393-capital-gainloss) |
 | [1407-top-travellers](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1407-top-travellers) |
+| [1527-patients-with-a-condition](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1527-patients-with-a-condition) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1693-daily-leads-and-partners) |
