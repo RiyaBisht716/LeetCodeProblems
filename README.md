@@ -574,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1211-queries-quality-and-percentage](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1211-queries-quality-and-percentage) |
 | [1280-students-and-examinations](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1280-students-and-examinations) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1327-list-the-products-ordered-in-a-period) |
+| [1341-movie-rating](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1393-capital-gainloss](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1393-capital-gainloss) |
 | [1407-top-travellers](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1407-top-travellers) |
