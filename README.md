@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0605-can-place-flowers](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0605-can-place-flowers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0907-koko-eating-bananas) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/0605-can-place-flowers) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1903-largest-odd-number-in-string](https://github.com/RiyaBisht716/LeetCodeProblems/tree/master/1903-largest-odd-number-in-string) |
 ## Monotonic Stack
